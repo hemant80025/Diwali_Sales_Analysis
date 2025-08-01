@@ -37,10 +37,11 @@ This project focuses on analyzing customer purchasing behavior to support smarte
 ---
 
 ## Sample Visualizations
+<img width="886" height="493" alt="Screenshot 2025-08-01 at 10 23 02 AM" src="https://github.com/user-attachments/assets/b767363c-d956-4b73-a66c-de0bb373606e" />
+<img width="699" height="488" alt="Screenshot 2025-08-01 at 10 23 41 AM" src="https://github.com/user-attachments/assets/c5db597d-bdde-42cc-9c94-953544510832" />
+<img width="922" height="393" alt="Screenshot 2025-08-01 at 10 24 19 AM" src="https://github.com/user-attachments/assets/f2b4e5ad-b008-42b7-b356-1029acb0d532" />
 
-> *(Add actual charts here or keep this section for future visuals)*  
-> Example:  
-> 
+<img width="905" height="295" alt="Screenshot 2025-08-01 at 10 24 56 AM" src="https://github.com/user-attachments/assets/f4c2e027-077f-4273-9093-bfa2886b08ef" />
 
 ---
 
