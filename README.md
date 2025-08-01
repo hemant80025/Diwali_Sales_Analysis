@@ -66,4 +66,3 @@ This project focuses on analyzing customer purchasing behavior to support smarte
 This project provided hands-on experience in data cleaning, exploration, and visualization using Python. By analyzing customer behavior across multiple dimensions, we uncovered meaningful patterns that can help businesses optimize their sales, marketing, and inventory strategies. The project not only enhanced technical skills but also strengthened business understanding through data-driven storytelling.
 
 ---
-"""
